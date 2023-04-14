@@ -1,11 +1,15 @@
-.navbar {
+body {
+    background-color: #E5E5E5;
+}
+
+.navbarTest {
     background-color: #EEEBE8;
     font-family: 'Amiko', sans-serif;
     font-weight: 700;
     font-size: 15px;
 }
 
-.herotitle {
+h1  {
     font-family: 'Amiko', sans-serif;
     font-weight: 700;
     font-size: 40px;
@@ -13,8 +17,47 @@
     
 }
 
-.herotext {
+p {
     font-family: 'Amiko', sans-serif;
     font-weight: 400;
     font-size: 30px;
 }
+.bgTest {
+    background-color: #E5E5E5;
+}
+
+.card-body {
+    background-color: #EEEBE8
+}
+
+.card-title {
+    font-family: 'Amiko', sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+  
+}
+.card-text {
+    font-family: 'Amiko', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.cardContainer {
+    align-content: center;
+    margin: 30px auto;
+}
+
+.sectionHeading {
+   font-family:'Amiko', sans-serif;
+   font-weight: 700;
+   text-align: center;
+    
+}
+
+.btn {
+    
+background-color: #E5FC5E;
+    color: black;
+
+}
+
