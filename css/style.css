@@ -1,12 +1,15 @@
 body {
-    background-color: #E5E5E5;
+    background-color:#E5C2C2;
 }
 
 .navbarTest {
-    background-color: #EEEBE8;
+    border-bottom: solid ;
+    border-color:#E63CEA;
+    background-color: #E5C2C2;
     font-family: 'Amiko', sans-serif;
     font-weight: 700;
     font-size: 15px;
+ 
 }
 
 h1  {
@@ -23,7 +26,8 @@ p {
     font-size: 30px;
 }
 .bgTest {
-    background-color: #E5E5E5;
+    background: rgb(232,158,234);
+    background: linear-gradient(40deg, rgba(232,158,234,1) 0%, rgba(243,192,185,1) 49%, rgba(232,207,200,1) 100%);k;
 }
 
 .card-body {
@@ -52,6 +56,9 @@ p {
    font-weight: 400;
    text-align: left;
    padding: 0px 30px 30px 30px;
+   border-bottom: solid ;
+   border-color:#E63CEA;
+
     
 }
 
@@ -65,3 +72,5 @@ background-color: #E5FC5E;
 .content {
     padding: 50px;
 }
+
+
